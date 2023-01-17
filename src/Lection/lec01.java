@@ -1,9 +1,9 @@
-package Lection01;
+package Lection;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class main {
+public class lec01 {
     public static void main(String[] args) {
         List<Integer> divider = findSimpleNumbers(12);
         for (int diver: divider) {

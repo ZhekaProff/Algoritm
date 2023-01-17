@@ -1,11 +1,10 @@
 package Seminar01;
 
-import java.awt.*;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-public class main {
+public class sem01 {
     public static void main(String[] args) {
 //        System.out.println(sumAllCount(5));
 //        System.out.println(findAllVariants(6));
