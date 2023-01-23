@@ -1,4 +1,4 @@
-package Seminar01;
+package Seminar;
 
 import java.util.ArrayList;
 import java.util.Date;

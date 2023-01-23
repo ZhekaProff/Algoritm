@@ -1,4 +1,4 @@
-package Seminar01;
+package Seminar;
 
 public class sem02 {
     public static void main(String[] args) {
